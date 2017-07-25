@@ -1,8 +1,6 @@
 package com.example.model;
 
-/**
- * Created by zhang on 2017/7/8.
- */
+
 public class ProductDO {
     private Integer pid;
     private Float price;

@@ -15,9 +15,7 @@ import org.springframework.web.bind.annotation.ResponseBody;
 import javax.servlet.http.HttpSession;
 import java.util.List;
 
-/**
- * Created by zhang on 2017/7/14.
- */
+
 @Controller
 @RequestMapping("/api")
 public class BuyProductApiController {

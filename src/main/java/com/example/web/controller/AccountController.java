@@ -18,9 +18,7 @@ import java.sql.Timestamp;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by zhang on 2017/6/30.
- */
+
 @Controller
 public class AccountController {
     private TransactionService transactionService;

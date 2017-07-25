@@ -7,9 +7,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 
 import javax.servlet.http.HttpSession;
 
-/**
- * Created by zhang on 2017/6/29.
- */
+
 @Controller
 public class LoginAndLogoutController {
 

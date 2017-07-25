@@ -11,9 +11,7 @@ import org.springframework.web.bind.annotation.ResponseBody;
 
 import javax.servlet.http.HttpSession;
 
-/**
- * Created by zhang on 2017/7/13.
- */
+
 @Controller
 @RequestMapping("/api")
 public class LoginApiController {

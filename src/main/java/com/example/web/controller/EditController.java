@@ -11,9 +11,6 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.servlet.ModelAndView;
 
-/**
- * Created by zhang on 2017/6/30.
- */
 @Controller
 public class EditController {
 

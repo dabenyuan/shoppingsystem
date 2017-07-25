@@ -4,9 +4,7 @@ import com.fasterxml.jackson.annotation.JsonInclude;
 
 import java.sql.Timestamp;
 
-/**
- * Created by zhang on 2017/7/8.
- */
+
 @JsonInclude(JsonInclude.Include.NON_NULL)
 public class ProductDTO {
     private Integer pid; //产品id

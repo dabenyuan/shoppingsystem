@@ -7,9 +7,6 @@ import org.springframework.web.servlet.ModelAndView;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-/**
- * Created by zhang on 2017/7/17.
- */
 public class ApiInterceptor implements HandlerInterceptor {
 
 

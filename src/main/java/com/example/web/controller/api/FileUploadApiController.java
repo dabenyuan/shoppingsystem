@@ -13,9 +13,7 @@ import javax.servlet.http.HttpServletRequest;
 import java.io.File;
 import java.io.IOException;
 
-/**
- * Created by zhang on 2017/7/14.
- */
+
 @Controller
 @RequestMapping("/api")
 public class FileUploadApiController {

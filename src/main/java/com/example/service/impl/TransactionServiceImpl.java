@@ -10,9 +10,7 @@ import org.springframework.stereotype.Service;
 import java.sql.Timestamp;
 import java.util.List;
 
-/**
- * Created by zhang on 2017/7/13.
- */
+
 @Service
 public class TransactionServiceImpl implements TransactionService {
 

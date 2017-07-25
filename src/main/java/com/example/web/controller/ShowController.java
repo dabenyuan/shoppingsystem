@@ -17,9 +17,7 @@ import org.springframework.web.servlet.ModelAndView;
 import javax.servlet.http.HttpSession;
 import java.util.List;
 
-/**
- * Created by zhang on 2017/6/30.
- */
+
 @Controller
 public class ShowController {
     private ProductService productService;
